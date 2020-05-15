@@ -1,0 +1,16 @@
+.button-div {
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 70px;
+}
+
+
+.button {
+    color: white;
+    font-size: 20px;
+    background: none;
+    border: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+}
